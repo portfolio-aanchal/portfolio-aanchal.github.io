@@ -1,0 +1,16 @@
+.image-cropper {
+    width: 124px;
+    height: 124px;
+    position: relative;
+    border-color: black;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.profile-pic {
+    display: inline;
+    margin: 0 auto;
+    margin-left: -40%;
+    margin-top: -13%;
+    height: 230px;
+    width: 230px;
+}
